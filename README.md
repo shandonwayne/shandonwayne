@@ -1,7 +1,7 @@
 👋 &nbsp; Hi, I’m @shandonwayne <br />
 👀 &nbsp; I’m interested in all things design <br />
 🌱 &nbsp; I’m currently learning scrollmagic js <br />
-💞️ &nbsp; I’m looking to collaborate on online learning <br />
+💞️ &nbsp; I’m looking to collaborate with learning designers <br />
 📫 &nbsp; How to reach me: shandoncardosa.com <br />
 
 <!---
