@@ -1,8 +1,8 @@
-> 👋 &nbsp; Hi, I’m @shandonwayne <br />
-> 👀 &nbsp; I’m interested in all things design <br />
-> 🌱 &nbsp; I’m currently learning scrollmagic js <br />
-> 💞️ &nbsp; I’m looking to collaborate on online learning <br />
-> 📫 &nbsp; How to reach me: shandoncardosa.com <br />
+👋 &nbsp; Hi, I’m @shandonwayne <br />
+👀 &nbsp; I’m interested in all things design <br />
+🌱 &nbsp; I’m currently learning scrollmagic js <br />
+💞️ &nbsp; I’m looking to collaborate on online learning <br />
+📫 &nbsp; How to reach me: shandoncardosa.com <br />
 
 <!---
 shandonwayne/shandonwayne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
